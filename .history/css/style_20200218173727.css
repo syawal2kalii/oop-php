@@ -1,0 +1,33 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+
+.navbar{
+    display: inline;
+    margin-left: 1200px;
+    
+}
+
+.navbar a {
+    margin-right: 20px;
+}
+
+
+/* 
+
+positioning (static,absolute,relative,fixed,..) ?
+display (default,inline,block,inline-block) ?
+1.Bagaimana menggunakan property margin right jika parent menggunakan property width 100%.
+
+
+
+
+*/

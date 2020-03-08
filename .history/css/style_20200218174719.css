@@ -1,0 +1,35 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+.container{
+    width: 100%;
+    height: 100%;
+    background-color: yellow;
+}
+
+.header{
+    height: 30px;
+    background-color: aqua;
+}
+
+.navbar a {
+    display: absolute
+    margin-right: 20px;
+    margin-top: 30px;
+    text-decoration: none;
+}
+
+
+/* 
+
+positioning (static,absolute,relative,fixed,..) ?
+display (default,inline,block,inline-block) ?
+1.Bagaimana menggunakan property margin right dan margin top jika parent menggunakan property width 100%.
+
+
+
+
+*/
